@@ -1,0 +1,12 @@
+SiteCode|SiteName|StudentOU|StaffSecurityGroup|StudentSecurityGroup|StudentHomeDir
+1|Paradise High School|OU=Paradise High,OU=Paradise Students,DC=paradise,dc=usd|PHS-Staff|PHS-Students|\\pusd-fs\Student Directories\Users
+2|Paradise Intermediate|OU=Paradise Intermediate,OU=Paradise Students,DC=paradise,dc=usd|INT-Staff|INT-Students|\\pusd-fs\Student Directories\Users
+3|Paradise Elementary School|OU=Paradise Elementary,OU=Paradise Students,dc=paradise,dc=usd|PES-Staff|PES-Students|\\pusd-fs\Student Directories\Users
+4|Ponderosa Elementary|OU=Ponderosa Elementary,OU=Paradise Students,dc=paradise,dc=usd|PON-Staff|PON-Students|\\pusd-fs\Student Directories\Users
+6|Ridgeview High School|OU=Ridgeview High,OU=Paradise Students,dc=paradise,dc=usd|RHS-Staff|RHS-Students|\\pusd-fs\Student Directories\Users
+8|Pine Ridge School|OU=Pine Ridge School,OU=Paradise Students,dc=paradise,dc=usd|PRS-Staff|PRS-Students|\\pusd-fs\Student Directories\Users
+9|Cedarwood Elementary|OU=Cedarwood Elementary,OU=Paradise Students,dc=paradise,dc=usd|CWD-Staff|CWD-Students|\\pusd-fs\Student Directories\Users
+11|Honey Run Academy|OU=Honey Run Academy,OU=Paradise Students,dc=paradise,dc=usd|HRA-Staff|HRA-Students|\\pusd-fs\Student Directories\Users
+12|Honey Run Academy|OU=Honey Run Academy,OU=Paradise Students,dc=paradise,dc=usd|HRA-Staff|HRA-Students|\\pusd-fs\Student Directories\Users
+34|eLearning Academy|OU=eLearning Academy,OU=Paradise Students,dc=paradise,dc=usd|ELA-Staff|ELA-Students|\\pusd-fs\Student Directories\Users
+77|Pearson Center|OU=Pearson Center,OU=Paradise Students,dc=paradise,dc=usd|PEA-Staff|PEA-Students|\\pusd-fs\Student Directories\Users
